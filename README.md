@@ -17,3 +17,6 @@ SELECT | WHERE | ORDER BY | GROUP BY | HAVING | JOIN | COUNT | SUM | AVG | MIN |
 ALL SQL Function used by this project 
 SELECT – Select data from table | WHERE – Filter data | ORDER BY – Sort data | GROUP BY – Group data | HAVING – Filter grouped data | JOIN – Combine tables | COUNT – Count rows | SUM – Total values | AVG – Average value | MIN – Minimum value | MAX – Maximum value | DISTINCT – Unique values | LIMIT – Limit results
 
+files (project )
+SELECT – Get data | WHERE – Filter rows | ORDER BY – Sort | GROUP BY – Group data | HAVING – Filter groups | JOIN – Combine tables | COUNT – Count rows | SUM – Total | AVG – Average | MIN – Min value | MAX – Max value | DISTINCT – Unique values | LIMIT – Limit rows | CASE – Condition logic | IN – Multiple match | BETWEEN – Range filter | LIKE – Pattern search | IS NULL – Check null | UNION – Combine results | EXISTS – Check data | ROW_NUMBER() – Row number | RANK() – Rank | DENSE_RANK() – Dense rank | LEAD() – Next value | LAG() – Previous value | OVER() – Window scope
+
