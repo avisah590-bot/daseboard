@@ -19,4 +19,20 @@ SELECT – Select data from table | WHERE – Filter data | ORDER BY – Sort da
 
 files (project )
 SELECT – Get data | WHERE – Filter rows | ORDER BY – Sort | GROUP BY – Group data | HAVING – Filter groups | JOIN – Combine tables | COUNT – Count rows | SUM – Total | AVG – Average | MIN – Min value | MAX – Max value | DISTINCT – Unique values | LIMIT – Limit rows | CASE – Condition logic | IN – Multiple match | BETWEEN – Range filter | LIKE – Pattern search | IS NULL – Check null | UNION – Combine results | EXISTS – Check data | ROW_NUMBER() – Row number | RANK() – Rank | DENSE_RANK() – Dense rank | LEAD() – Next value | LAG() – Previous value | OVER() – Window scope
+Power BI Sales Dashboard
 
+This project presents an interactive Power BI dashboard for analyzing sales performance and business insights.
+
+Description
+
+Analyzed sales data to track key metrics such as revenue, profit, and growth trends. The dashboard provides insights into category performance, regional sales, and customer behavior.
+
+Key Features
+Interactive filters for dynamic analysis
+KPI cards for quick overview
+Sales trends visualization
+Category and region-wise analysis
+Customer segmentation insights
+Tools Used
+
+Power BI
