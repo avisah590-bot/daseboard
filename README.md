@@ -13,3 +13,7 @@ VLOOKUP – Vertical lookup | HLOOKUP – Horizontal lookup | INDEX – Get valu
 
 SQL Project Zomato(project)
 SELECT | WHERE | ORDER BY | GROUP BY | HAVING | JOIN | COUNT | SUM | AVG | MIN | MAX | DISTINCT | LIMIT
+
+ALL SQL Function used by this project 
+SELECT – Select data from table | WHERE – Filter data | ORDER BY – Sort data | GROUP BY – Group data | HAVING – Filter grouped data | JOIN – Combine tables | COUNT – Count rows | SUM – Total values | AVG – Average value | MIN – Minimum value | MAX – Maximum value | DISTINCT – Unique values | LIMIT – Limit results
+
